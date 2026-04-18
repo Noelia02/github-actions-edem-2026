@@ -1,4 +1,4 @@
-name: Event PR - Single Job
+name: Event PR - Single Jobb
 
 on:
   pull_request:
