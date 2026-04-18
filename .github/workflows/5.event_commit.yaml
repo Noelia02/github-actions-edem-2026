@@ -1,4 +1,4 @@
-name: Event Commit - Single Job
+name: Event Commit - Single Jobb
 
 on:
   push:
